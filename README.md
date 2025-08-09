@@ -2,7 +2,7 @@
 
 **Automated RO-Crate Generation for Research Data using Large Language Models**
 
-LLMCrater is a Python tool that automatically generates [RO-Crate](https://www.researchobject.org/ro-crate/) metadata for Jupyter notebooks and associated research datasets using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
+LLMCrater is a Python tool that automatically generates [RO-Crate](https://www.researchobject.org/ro-crate/) metadata for Jupyter notebooks and associated research datasets using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). **LLMCrater is developed for the [SLICES project](https://www.slices-ri.eu/).**
 
 ## Features
 
